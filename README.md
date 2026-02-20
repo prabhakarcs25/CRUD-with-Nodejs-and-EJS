@@ -28,3 +28,7 @@ This project demonstrates server-side rendering, RESTful routing, and basic data
 ## Project Structure
 
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/ae890dbb-b3d0-4863-80fc-544265ccbc5d" />
+
+<img width="1919" height="732" alt="image" src="https://github.com/user-attachments/assets/59454629-b9f6-40f0-a0ff-8fc0f89bced4" />
+
+
